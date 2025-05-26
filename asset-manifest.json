@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7e1a0a48.css",
+    "main.js": "/static/js/main.d1317d1a.js",
+    "static/js/453.66636984.chunk.js": "/static/js/453.66636984.chunk.js",
+    "static/media/img-cincin.png": "/static/media/img-cincin.eafb2cb1a90898c58ae9.png",
+    "static/media/You-Are-The-One.mp3": "/static/media/You-Are-The-One.4b17bced152b8e97610f.mp3",
+    "static/media/bg-mempelai1.png": "/static/media/bg-mempelai1.1a7a987edcbf80e95c84.png",
+    "static/media/bg-mempelai2.png": "/static/media/bg-mempelai2.b1e9cf5d112bedc7724f.png",
+    "static/media/makan.jpg": "/static/media/makan.2ddee969b23119a0c493.jpg",
+    "static/media/mempelai-wanita.png": "/static/media/mempelai-wanita.f94e28d1997682f45869.png",
+    "static/media/foto-main.png": "/static/media/foto-main.45fd5a1135fd49f9b746.png",
+    "static/media/divider.png": "/static/media/divider.a15aee5cc6f83de405ec.png",
+    "static/media/mempelai-pria.png": "/static/media/mempelai-pria.2c630be7c7fe31c4925c.png",
+    "static/media/adab-walimah.png": "/static/media/adab-walimah.0d76369e37dccbb2c4f3.png",
+    "static/media/bg1.jpg": "/static/media/bg1.44944320f0fd3edc9e61.jpg",
+    "static/media/bg-welcome.jfif": "/static/media/bg-welcome.625668eac9b8bd44e775.jfif",
+    "static/media/bri.png": "/static/media/bri.278cd927417badad34eb.png",
+    "static/media/bismillah.png": "/static/media/bismillah.4abee8ba3fc280700d1d.png",
+    "static/media/layer-ayat.png": "/static/media/layer-ayat.0395da094b9d0c34cabc.png",
+    "static/media/bg2.jpg": "/static/media/bg2.f384f16fc728468a7a95.jpg",
+    "static/media/bca.png": "/static/media/bca.cac40dfe8d98ff085571.png",
+    "static/media/mandiri.svg": "/static/media/mandiri.bc343b798197670f32fca0bbf59a429c.svg",
+    "index.html": "/index.html",
+    "static/media/instagram.svg": "/static/media/instagram.da7c8b906a74d96374903698f965002d.svg",
+    "static/media/clock-regular.svg": "/static/media/clock-regular.2a4403fa1ad992eb5acd2f0deeef390d.svg",
+    "main.7e1a0a48.css.map": "/static/css/main.7e1a0a48.css.map",
+    "main.d1317d1a.js.map": "/static/js/main.d1317d1a.js.map",
+    "453.66636984.chunk.js.map": "/static/js/453.66636984.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e1a0a48.css",
+    "static/js/main.d1317d1a.js"
+  ]
+}
